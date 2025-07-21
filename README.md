@@ -287,10 +287,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Live Demo**: [Play the Game](https://your-game-url.com)
-- **Documentation**: [Full API Docs](https://docs.your-game-url.com)
-- **Issues**: [Report Bugs](https://github.com/your-username/air-traffic-control-game/issues)
-- **Discussions**: [Community Forum](https://github.com/your-username/air-traffic-control-game/discussions)
+- **Live Demo**: [Play the Game](https://atc.prannay.dev)
+<!-- - **Documentation**: [Full API Docs](https://docs.your-game-url.com) -->
+- **Issues**: [Report Bugs](https://github.com/ThePyProgrammer/blinkatc/issues)
+<!-- - **Discussions**: [Community Forum](https://github.com/your-username/air-traffic-control-game/discussions) -->
 
 ---
 
